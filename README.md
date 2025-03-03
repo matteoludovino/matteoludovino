@@ -1,6 +1,6 @@
 # ☂️ Welcome to my profile! 
 
-### All Technologies I ever used in my life:
+### ▶ All Technologies I ever used in my life:
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
