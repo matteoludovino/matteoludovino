@@ -9,7 +9,7 @@
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
 </a>
 
 ### Tools and Platforms
