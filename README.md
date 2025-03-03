@@ -4,7 +4,7 @@
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,py" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,c" />
 </a>
 
 ### Frameworks and Libraries
