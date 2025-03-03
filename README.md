@@ -1,4 +1,4 @@
-# ☂️ Welcome to my profile! 
+# 🚩 Welcome to my profile! 
 
 ### ▶ All Technologies I ever used in my life:
 
