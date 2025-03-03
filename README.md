@@ -6,12 +6,12 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,py,c" />
 </a>
 
-### Frameworks and Libraries
+### Frameworks and Libraries:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
 </a>
 
-### Tools and Platforms
+### Tools and Platforms:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,figma,discord" />
 </a>
