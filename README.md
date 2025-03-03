@@ -14,7 +14,7 @@
 
 ### Tools and Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma, discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,discord" />
 </a>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
