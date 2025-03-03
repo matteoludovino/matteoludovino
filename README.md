@@ -2,7 +2,6 @@
 
 ### ▶ All Technologies I ever used in my life:
 
-### Languages and Technologies
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,py,c" />
 </a>
