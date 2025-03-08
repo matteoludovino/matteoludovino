@@ -8,7 +8,7 @@
 
 ### ▸ Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,discordjs,tailwind" />
 </a>
 
 ### ▸ Tools and Platforms:
