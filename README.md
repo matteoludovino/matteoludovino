@@ -3,17 +3,17 @@
 ### ▸ All Technologies I ever used in my life:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,c" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,postgresql,mysql,py" />
 </a>
 
 ### ▸ Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,discordjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,tailwind" />
 </a>
 
 ### ▸ Tools and Platforms:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,discord" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,figma" />
 </a>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
