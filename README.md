@@ -1,19 +1,19 @@
 # 🚩 Welcome to my profile! 
 
-### ▸ All Technologies I ever used in my life:
+### ▸ Techs:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,postgresql,mysql,py" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,postgresql,mysql,dynamodb,mongodb" />
 </a>
 
 ### ▸ Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,discordjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </a>
 
 ### ▸ Tools and Platforms:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel" />
 </a>
 
 
