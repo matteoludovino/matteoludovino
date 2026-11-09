@@ -8,7 +8,7 @@
 
 ### ▸ Frameworks and Libraries:
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi" />
 </a>
 
 ### ▸ Tools and Platforms:
